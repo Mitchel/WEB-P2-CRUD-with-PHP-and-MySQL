@@ -1,5 +1,7 @@
-# web-p2
+# WEB P2: CRUD with PHP and MySQL
 For my school education Software Development we have an assignment with CRUD, PHP & MySQL for period 2 of Webdevelopment. The goal for this period is to learn to work with the server-side scripting language PHP and the database MySQL for storing, reading, changing and deleting data from a database. These operations are often summarized in the word CRUD.
+
+To end this period we will do a test on this subject at the end of this period.
 
 ## Donate
 If you love this project and you appreciate my work.. You might consider buying me a coffee. ☕️
